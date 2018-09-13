@@ -14,7 +14,7 @@ mosquitto.exe -v
 netstat -a
 ~~~
 
-Domyœlny port 1883
+DomyÅ›lny port 1883
 
 ## Nadawca
 
@@ -39,3 +39,8 @@ PM> Install-Package MQTTnet.AspNetCore
 
 * Dobre praktyki
 https://www.hivemq.com/blog/mqtt-essentials-part-5-mqtt-topics-best-practices
+
+* Wiki MQTTnet
+https://github.com/chkr1011/MQTTnet/wiki/Client
+
+* Tools http://www.steves-internet-guide.com/mosquitto_pub-sub-clients/
